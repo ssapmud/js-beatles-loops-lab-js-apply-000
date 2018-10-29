@@ -9,5 +9,8 @@ function theBeatlesPlay(arrOfMus, arrOfIns) {
 
 function johnLennonFacts(arrOfFacts) {
   const facts = [];
-  
+  let i = 0;
+  while (arrOfFacts < i) {
+    facts.push(arrOfFacts + "!!!")
+  }
 }
