@@ -8,8 +8,5 @@ function theBeatlesPlay(arrOfMus, arrOfIns) {
 }
 
 function johnLennonFacts(arrOfFacts) {
-  while (arrOfFacts > 0) {
-    arrOfFacts++;
-    arrOfFacts.length-1 += "!!!";
-  }
+  
 }
