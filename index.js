@@ -2,14 +2,14 @@
 function theBeatlesPlay(arrOfMus, arrOfIns) {
   let empty = [];
   for (let i = 0; i < arrOfMus.length; i++) {
-    empty.push(`${arrOfMus[i]} plays ${arrOfIns[i]}`)
+    empty.push(`${arrOfMus[i]} plays ${arrOfIns[i]}`);
   }
-  return empty
+  return empty;
 }
 
 function johnLennonFacts(arrOfFacts) {
   while (arrOfFacts > 0) {
-    arrOfFacts++
-    arrOfFacts += "!!!"
+    arrOfFacts++;
+    arrOfFacts += "!!!";
   }
 }
