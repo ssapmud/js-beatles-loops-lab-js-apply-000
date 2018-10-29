@@ -22,6 +22,7 @@ function johnLennonFacts(facts) {
     let i = 0;
     
     do {
+      i++
       
     }
   }
