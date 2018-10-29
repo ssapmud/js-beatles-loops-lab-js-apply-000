@@ -24,7 +24,7 @@ function johnLennonFacts(facts) {
     do {
       i++;
      empty = emptyArray.push("I love the Beatles!");
-     while(i < 15)
+     
     }
     
   }
