@@ -22,8 +22,9 @@ function johnLennonFacts(facts) {
     let i = 0;
     
     do {
-      i++
-     empty+= emptyArray.push("I love the Beatles!");
-     while(i < 5)
+      i++;
+     empty = emptyArray.push("I love the Beatles!");
+     while(i < 15)
     }
+    
   }
