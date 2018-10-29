@@ -11,6 +11,8 @@ function johnLennonFacts(arrOfFacts) {
   const facts = [];
   let i = 0;
   while (arrOfFacts.length < i) {
-    facts.push(arrOfFacts + "!!!")
+    facts.push(`${arrOfFacts[i]!!!}`)
+    i++
   }
+  return facts;
 }
