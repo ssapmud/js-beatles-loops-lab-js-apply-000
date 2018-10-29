@@ -21,7 +21,7 @@ function johnLennonFacts(facts) {
     let emptyArray = [];
     
     do {
-      
+      emptyArray.push()
     }
     
   }
