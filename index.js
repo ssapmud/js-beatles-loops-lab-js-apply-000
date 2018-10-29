@@ -7,3 +7,6 @@ function theBeatlesPlay(arrOfMus, arrOfIns) {
   return empty
 }
 
+function johnLennonFacts(arrOfFacts, ) {
+  
+}
