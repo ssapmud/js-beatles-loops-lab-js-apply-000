@@ -7,12 +7,12 @@ function theBeatlesPlay(arrOfMus, arrOfIns) {
   return empty;
 }
 
-function johnLennonFacts(arrOfFacts) {
-  const facts = [];
-  let i = 0;
-  while (arrOfFacts.length > i) {
-    facts.push(`${arrOfFacts[i]}!!!`);
-    i++;
+function johnLennonFacts(facts) {
+    const arr=[];
+    let i = 0;
+    while(facts.length > i){
+      arr.push(`${facts[i]}!!!`)
+      i++
+    }
+    return arr
   }
-  return facts;
-}
