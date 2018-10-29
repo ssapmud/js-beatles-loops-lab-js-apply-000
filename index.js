@@ -20,5 +20,8 @@ function johnLennonFacts(facts) {
   function iLoveTheBeatles(number) {
     let emptyArray = [];
     
+    do {
+      
+    }
     
   }
